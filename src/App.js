@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import {Grid} from '@material-ui/core'
 import { SearchBar, VideoList, VideoDetail } from "./components";
 import youtube from './api/youtube'
